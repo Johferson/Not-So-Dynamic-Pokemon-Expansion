@@ -1,6 +1,7 @@
 #pragma once
 
 // Extracts the upper 16 bits of a 32-bit number
+
 #define HIHALF(n) (((n) & 0xFFFF0000) >> 16)
 
 // Extracts the lower 16 bits of a 32-bit number
