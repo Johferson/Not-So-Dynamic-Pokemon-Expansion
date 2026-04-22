@@ -442,5 +442,9 @@ extern const u8 gFrontSprite528GalladeTiles[];
 extern const u8 gFrontSprite529ProbopassTiles[];
 extern const u8 gFrontSprite530DusknoirTiles[];
 extern const u8 gFrontSprite531FroslassTiles[];
+extern const u8 gFrontSprite808SylveonTiles[];
+extern const u8 gFrontSprite1040DeoxysAttackTiles[];
+extern const u8 gFrontSprite1041DeoxysDefenseTiles[];
+extern const u8 gFrontSprite1042DeoxysSpeedTiles[];
 
 extern const u8 gIconSprite252Tiles[];
