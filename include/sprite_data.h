@@ -418,6 +418,7 @@ extern const u8 gFrontSprite439UnownQuestionTiles[];
 extern const u8 gFrontSprite459BudewTiles[];
 extern const u8 gFrontSprite460RoseradeTiles[];
 extern const u8 gFrontSprite477AmbipomTiles[];
+extern const u8 gFrontSprite482MismagiusTiles[];
 extern const u8 gFrontSprite483HonchkrowTiles[];
 extern const u8 gFrontSprite486ChinglingTiles[];
 extern const u8 gFrontSprite491BonslyTiles[];
